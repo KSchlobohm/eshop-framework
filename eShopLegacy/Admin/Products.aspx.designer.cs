@@ -11,7 +11,7 @@ namespace eShopLegacy.Admin
         protected global::System.Web.UI.WebControls.Button btnShowAdd;
         protected global::System.Web.UI.WebControls.Panel pnlForm;
         protected global::System.Web.UI.WebControls.Label lblFormTitle;
-        protected global::System.Web.UI.HtmlControls.HtmlInputHidden hfEditId;
+        protected global::System.Web.UI.WebControls.HiddenField hfEditId;
         protected global::System.Web.UI.WebControls.TextBox txtName;
         protected global::System.Web.UI.WebControls.TextBox txtPrice;
         protected global::System.Web.UI.WebControls.TextBox txtDescription;
